@@ -1,0 +1,10 @@
+torch>=2.6
+transformer-lens==3.2.1
+transformers>=4.45
+numpy
+scipy
+pandas
+pyarrow
+tqdm
+plotly
+matplotlib
